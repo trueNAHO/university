@@ -13,3 +13,7 @@
 [submodule "semester_2_2023_02/university-bachelor-semester-project-2-report"]
 	path = semester_2_2023_02/university-bachelor-semester-project-2-report
 	url = git@github.com:trueNAHO/university-bachelor-semester-project-2-report.git
+
+[submodule "semester_2_2023_02/university-programming-fundamentals-2"]
+	path = semester_2_2023_02/university-programming-fundamentals-2
+	url = git@github.com:trueNAHO/university-programming-fundamentals-2.git
