@@ -1,4 +1,4 @@
-# University: A Collection of NAHO's Major University Projects
+# University
 
 - [About](#about)
 - [Contributing](#contributing)
