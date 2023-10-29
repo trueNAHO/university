@@ -1,0 +1,19 @@
+= University
+
+== About
+
+A collection of https://github.com/trueNAHO[NAHO]'s substantial university
+projects, excluding small throw-away homework assignments. Project
+https://git-scm.com/book/en/v2/Git-Tools-Submodules[submodules] are categorized
+by semester and
+https://docs.github.com/en/repositories/archiving-a-github-repository[archived]
+upon submission.
+
+== Contributing
+
+To contribute, please review link:docs/contributing.adoc[our contribution
+guidelines].
+
+== License
+
+This project is licensed under link:LICENSE[MIT].
