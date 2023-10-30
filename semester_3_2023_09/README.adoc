@@ -1,7 +1,6 @@
 = Semester 3 (2023/09 -- 2023/02)
 
-== Note
+== `university-bachelor-semester-project-3-project-subject-description`
 
-The `university-bachelor-semester-project-3-project-subject-description`
-repository is privately hosted because the imposed structure limits
-expressiveness and introduces a great deal of redundancy.
+The project subject description is privately hosted because the imposed
+structure limits expressiveness and introduces a great deal of redundancy.

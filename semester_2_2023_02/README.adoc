@@ -1,7 +1,6 @@
 = Semester 2 (2023/02 -- 2023/06)
 
-== Note
+== `university-bachelor-semester-project-2-report`
 
-The `university-bachelor-semester-project-2-report` repository is privately
-hosted because the imposed structure limits expressiveness and introduces a
-great deal of redundancy.
+The report is privately hosted because the imposed structure limits
+expressiveness and introduces a great deal of redundancy.
