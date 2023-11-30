@@ -1,6 +1,8 @@
 = Semester 2 (2023/02 -- 2023/06)
 
-== `university-bachelor-semester-project-2-report`
-
-The report is privately hosted because the imposed structure limits
-expressiveness and introduces a great deal of redundancy.
+|===
+| Repository | Visibility
+| `university-bachelor-semester-project-2-report` | Private
+| `university-bachelor-semester-project-2` | Public
+| `university-programming-fundamentals-2` | Public
+|===

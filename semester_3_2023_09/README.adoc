@@ -1,11 +1,7 @@
 = Semester 3 (2023/09 -- 2023/02)
 
-== `university-bachelor-semester-project-3-activity-report`
-
-The activity report is privately hosted because Git version control renders it
-obsolete.
-
-== `university-bachelor-semester-project-3-project-subject-description`
-
-The project subject description is privately hosted because the imposed
-structure limits expressiveness and introduces a great deal of redundancy.
+|===
+| Repository | Visibility
+| `university-bachelor-semester-project-3-activity-report` | Private
+| `university-bachelor-semester-project-3-project-subject-description` | Private
+|===
