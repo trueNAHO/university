@@ -5,7 +5,7 @@
 A collection of https://github.com/trueNAHO[NAHO]'s substantial university
 projects, excluding small throw-away homework assignments. Project
 https://git-scm.com/book/en/v2/Git-Tools-Submodules[submodules] are categorized
-by semester and
+by semester in the `semesters` directory, and
 https://docs.github.com/en/repositories/archiving-a-github-repository[archived]
 upon submission.
 
