@@ -2,6 +2,7 @@
 
 |===
 | Repository | Visibility
+
 | `university-bachelor-semester-project-2-report` | Private
 | `university-bachelor-semester-project-2` | Public
 | `university-programming-fundamentals-2` | Public

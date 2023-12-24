@@ -2,6 +2,7 @@
 
 |===
 | Repository | Visibility
+
 | `university-bachelor-semester-project-3-activity-report` | Private
 | `university-bachelor-semester-project-3-project-subject-description` | Private
 | `university-bachelor-semester-project-3` | Public
