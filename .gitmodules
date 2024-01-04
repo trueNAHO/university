@@ -33,3 +33,7 @@
 [submodule "semesters/3/university-bachelor-semester-project-3-report"]
 	path = semesters/3/university-bachelor-semester-project-3-report
 	url = git@github.com:trueNAHO/university-bachelor-semester-project-3-report.git
+
+[submodule "semesters/3/university-bachelor-semester-project-3-report-secondary-language"]
+	path = semesters/3/university-bachelor-semester-project-3-report-secondary-language
+	url = git@github.com:trueNAHO/university-bachelor-semester-project-3-report-secondary-language.git
