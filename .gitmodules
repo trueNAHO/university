@@ -26,6 +26,10 @@
 	path = semesters/3/university-bachelor-semester-project-3-activity-report
 	url = git@github.com:trueNAHO/university-bachelor-semester-project-3-activity-report.git
 
+[submodule "semesters/3/university-bachelor-semester-project-3-presentation"]
+	path = semesters/3/university-bachelor-semester-project-3-presentation
+	url = git@github.com:trueNAHO/university-bachelor-semester-project-3-presentation.git
+
 [submodule "semesters/3/university-bachelor-semester-project-3-project-subject-description"]
 	path = semesters/3/university-bachelor-semester-project-3-project-subject-description
 	url = git@github.com:trueNAHO/university-bachelor-semester-project-3-project-subject-description.git
