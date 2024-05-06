@@ -1,4 +1,4 @@
-= Semester 3 (2023/09 -- 2023/02)
+= Semester 3 (2023/09 -- 2024/02)
 
 |===
 | Repository | Visibility
